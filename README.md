@@ -5,7 +5,7 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 ```json
 {
     "apikey": "",
-    "prefix": "/",
+    "prefix": "#",
     "owner": "6289669497213"
 }
 ```
