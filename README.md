@@ -1,30 +1,4 @@
-﻿# LoL Human Case Rest API WA Bot
-
-# Installation
-
-## Termux
-```cmd
-> pkg update && pkg upgrade
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-```
-
-## Windows
-* [`Download ffmpeg`](https://ffmpeg.org/download.html#build-windows) and set path
-* [`Download wget`](https://eternallybored.org/misc/wget/releases/) and set path
-* [`Download Node JS`](https://nodejs.org/en/download/)
-
-## Cloning this repo
-```cmd
-> git clone https://github.com/LoL-Human/Case-WA-Bot.git
-> cd Case-WA-Bot
-```
-
-## Install the package
-```cmd
-> npm i
-```
+﻿# LoL Human Case Re Edit By Reiyuura
 
 ## Edit config file
 Edit the required value in `config.json`. You can get the api key at [`LoL Human Rest API`](http://api.lolhuman.xyz/).
@@ -32,13 +6,8 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 {
     "apikey": "",
     "prefix": "/",
-    "owner": "62895418200111"
+    "owner": "6289669497213"
 }
-```
-
-## Run the bot
-```cmd
-> npm start
 ```
 
 # Features
