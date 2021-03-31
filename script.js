@@ -1,3 +1,5 @@
+/***** Source Lol Human *****/
+/***** Recode BY Reiyuura *****/
 const {
     WAConnection,
     MessageType,
