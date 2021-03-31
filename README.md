@@ -1,4 +1,4 @@
-# LoL Human Case Rest API WA Bot
+﻿# LoL Human Case Rest API WA Bot
 
 # Installation
 
@@ -41,73 +41,49 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 > npm start
 ```
 
-## Available Case
+# Features
+If you want to unlock premium commands, please buy me a coffee at least 1 on Ko-fi platform.
 
-### Al Quran
-* `Al Quran`
+|     Leveling     |  Availability  |
+| :--------------: | :------------: |
+| Leveling         |       ✔️       |
 
-### Downloader
-* `Telegram Sticker`
-* `Instagram Download`
-* `Facebook Download`
-* `Youtube Play`
-* `Youtube Audio`
-* `Youtube Video`
-* `Pinterest Search`
-* `Pinterest Download`
-* `Pixiv Search`
-* `Pixiv Download`
-* `XNXX`
-* `XNXX Search`
-* `Xhmaster`
-* `Xhmaster Search`
+|     Sticker Maker     | Availability |
+| :-------------------: | :----------: |
+| Send/reply image      |      ✔️      |
+| Send/reply GIF        |      ✔️      |
+| Send/reply MP4        |      ✔️      |
+| Text to sticker       |      ✔️      |
+| Text to sticker GIF   |      ✔️      |
+| Sticker to image      |      ✔️      |
+| Sticker WM            |      ✔️      |
+| Take sticker          |      ✔️      |
 
-### Text Maker
-* `Textprome`
-* `Photo Oxy`
-* `Ephoto 360`
+|      Downloader     | Availability |
+| :-----------------: | :----------: |
+| Facebook video      |      ✔️      |
+| YouTube audio/video |      ✔️      |
+| Joox musics         |      ✔️      |
+| TikTok video        |      ✔️      |
+| Twitter video/image |      ✔️      |
+| Instagram post      |      ✔️      |
+| Instagram story     |      ✔️      |
+| TikTok no WM        |      ✔️      |
 
-### Image Search
-* `Konachan Search`
-
-### Random Image
-* `Random Image`
-
-### Random Text
-* `Quotes`
-* `Quotes Dilan`
-
-### AniManga
-* `Nhentai`
-* `Nhentai PDF`
-* `Kusonime`
-* `Kusonime Search`
-* `Otakudesu`
-* `Otakudesu Search`
-* `WAIT`
-
-### Information
-* `Jadwal TV`
-
-### Entertainment
-* `Wancak`
-
-### Photo Editor
-* `Triggered`
-
-### Creator
-* `TTP`
-* `Photo Editor`
-
-### Etc
-* `Sticker`
-* `Broadcast`
-
-## Note:
-* You can request a case in my [`WhatsApp`](http://wa.me/62895418200111).
+|    Moderation    | Availability |
+| :--------------: | :----------: |
+| Add              |      ✔️      |
+| Kick             |      ✔️      |
+| Promote          |      ✔️      |
+| Demote           |      ✔️      |
+| Tagall           |      ✔️      |
+| Toogle NSFW      |      ✔️      |
+| Hidetag          |      ✔️      |
+| Toogle welcome   |      ✔️      |
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`LolHuman`](https://github.com/LoL-Human)
 * [`Fxc7`](https://github.com/Fxc7)
 * [`Pais`](https://github.com/Paiiss)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
